@@ -1,0 +1,8 @@
+@"
+pygame
+numpy
+pandas
+matplotlib
+scikit-fuzzy
+torch
+"@ | Out-File -Encoding utf8 requirements.txt

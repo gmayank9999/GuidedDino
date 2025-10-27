@@ -1,0 +1,17 @@
+# Python venv
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.db
+*.sqlite3
+
+# Logs and data
+data/
+runs/
+*.csv
+
+# OS
+.DS_Store
+Thumbs.db
